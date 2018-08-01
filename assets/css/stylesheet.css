@@ -1,0 +1,23 @@
+.list-group{
+  display: grid;
+  grid-template-columns: 23.6% 23.6% 23.6% 23.6%;
+  grid-gap:20px;
+  text-align: center;
+}
+.list-group-items{
+  border:2px solid green;
+  background-color: gray;
+}
+.images{
+  width: 100%;
+  height: 275px;
+}
+.list-group-content{
+  font-style: normal;
+  font-family: verdana;
+  font-size: 18px;
+  color:white;
+}
+.input-items{
+  background-color: blue;
+}

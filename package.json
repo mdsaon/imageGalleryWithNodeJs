@@ -1,0 +1,25 @@
+{
+  "name": "gallery-with-nodejs",
+  "version": "1.0.0",
+  "description": "Integrify Image Gallery with Node Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "saon",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0",
+    "multer": "^1.3.1",
+    "nodemon": "^1.18.3"
+  }
+}
